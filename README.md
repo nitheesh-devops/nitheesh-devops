@@ -1,4 +1,72 @@
+# Hi, I'm Nitheesh Kumar 👋
 
+## 🚀 DevOps & Cloud Engineer
+
+DevOps Engineer with nearly 3 years of hands-on experience in designing and implementing CI/CD pipelines, automating AWS cloud infrastructure, and managing scalable production environments.
+
+I enjoy building reliable deployment pipelines, improving release processes, and solving infrastructure challenges with automation. My focus is always on stability, security, and scalability.
+
+---
+
+## 💼 Professional Experience
+
+- Designed and implemented end-to-end CI/CD pipelines using Jenkins.
+- Automated build, testing, security scanning, and deployments.
+- Containerized applications using Docker and deployed them on Kubernetes (EKS).
+- Managed AWS infrastructure including EC2, VPC, IAM, S3, Load Balancers, Auto Scaling, CloudWatch, and EKS.
+- Implemented GitOps workflows using ArgoCD.
+- Integrated SonarQube and Trivy for code quality and security scanning.
+- Reduced manual deployment effort by 40% through automation.
+- Improved release cycle time by 45% by optimizing CI/CD workflows.
+- Worked on monitoring and observability using Prometheus, Grafana, and CloudWatch.
+
+---
+
+## 🧠 My Approach to DevOps
+
+I believe DevOps is not just about tools — it is about:
+
+- Designing reliable systems
+- Automating repetitive processes
+- Ensuring security at every stage
+- Improving deployment speed without compromising stability
+- Thinking long-term about scalability and cost optimization
+
+I focus on understanding the complete system flow before implementing automation. I prefer structured pipelines, clear documentation, and proactive monitoring over reactive fixes.
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud:** AWS  
+**CI/CD:** Jenkins, Argo CD  
+**Containers:** Docker  
+**Orchestration:** Kubernetes  
+**Configuration Management:** Ansible  
+**Monitoring:** Prometheus, Grafana, CloudWatch  
+**Build Tools:** Maven  
+**Version Control:** Git  
+**Code Quality & Security:** SonarQube, Trivy  
+**Scripting:** Shell  
+
+---
+
+## 📌 Current Focus
+
+- Improving Kubernetes production-level troubleshooting skills  
+- Strengthening Infrastructure as Code practices  
+- Enhancing system design and reliability thinking  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/nitheesh-devops  
+- Email: nitheeshkumar.devops@gmail.com  
+
+---
+
+⭐ I am always open to learning, collaboration, and solving real-world infrastructure challenges.
 
 <!--
 **nitheesh-devops/nitheesh-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
