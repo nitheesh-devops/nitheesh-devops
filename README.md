@@ -1,6 +1,6 @@
-# Hi, I'm Nitheesh Kumar 👋
+# Hi, I'm Nitheesh Kumar 
 
-## 🚀 DevOps & Cloud Engineer
+##  DevOps & Cloud Engineer
 
 DevOps Engineer with nearly 3 years of hands-on experience in designing and implementing CI/CD pipelines, automating AWS cloud infrastructure, and managing scalable production environments.
 
